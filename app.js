@@ -40,7 +40,7 @@
                 { name: 'Ansulin', bn_name: 'ইনসুলিন', timing: 'খাওয়ার আগে', image: 'Ansulin.jpg' },
                 { name: 'Prelica', bn_name: 'প্রিলিকা', timing: 'খাওয়ার পর', image: 'Prelica.jpg' },
                 { name: 'Cerevus', bn_name: 'সেরেভাস', timing: 'খাওয়ার পর', image: 'Cerevas.jpg' },
-                { name: 'Epitra', bn_name: 'এপিট্রা', timing: 'প্রয়োজনে খাওয়ার পর', image: 'Epitra.jpg' }
+                { name: 'Epitra', bn_name: 'এপিট্রা', timing: 'প্রয়োজনে খাওয়ার আগে', image: 'Epitra.jpg' }
             ]
         };
 
